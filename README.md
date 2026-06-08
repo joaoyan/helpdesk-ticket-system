@@ -1,34 +1,70 @@
-# HelpDesk Ticket System
+# 🎫 HelpDesk Ticket System
 
-Sistema simples de gerenciamento de chamados desenvolvido com HTML, CSS e JavaScript.
+Sistema de gerenciamento de chamados desenvolvido com HTML, CSS e JavaScript.
 
-## Funcionalidades
+## 🚀 Demonstração
 
-- Abrir chamados
-- Definir categoria
-- Definir prioridade
-- Alterar status
-- Excluir chamados
-- Armazenamento em LocalStorage
-- Interface responsiva
+🔗 Acesse o projeto online:
 
-## Tecnologias
+https://joaoyan.github.io/helpdesk-ticket-system/
+
+---
+
+## 📌 Funcionalidades
+
+✅ Abrir chamados
+
+✅ Definir categoria do problema
+
+✅ Definir prioridade
+
+✅ Alterar status dos chamados
+
+✅ Excluir chamados
+
+✅ Armazenamento local com LocalStorage
+
+✅ Interface responsiva
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 - LocalStorage
 
-## Objetivo
+---
 
-Projeto criado para praticar desenvolvimento web e simular um sistema utilizado em ambientes de suporte técnico, Help Desk e Service Desk.
+## 🎯 Objetivo do Projeto
 
-## Autor
+Este projeto foi desenvolvido para praticar desenvolvimento web e simular um sistema utilizado em ambientes de:
 
-João Yan
+- Help Desk
+- Service Desk
+- Suporte Técnico
+- Atendimento ao Usuário
 
-LinkedIn:
+---
+
+## 📷 Preview
+
+Adicione aqui uma captura de tela do sistema.
+
+Exemplo:
+<img width="1365" height="530" alt="image" src="https://github.com/user-attachments/assets/51dea302-3d98-42df-9ece-d3488dd22dba" />
+
+![Preview do Sistema](screenshot.png)
+
+---
+
+## 👨‍💻 Autor
+
+### João Yan
+
+🔗 LinkedIn:
 https://www.linkedin.com/in/joaoyan
 
-GitHub:
+🔗 GitHub:
 https://github.com/joaoyan
