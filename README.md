@@ -50,12 +50,7 @@ Este projeto foi desenvolvido para praticar desenvolvimento web e simular um sis
 
 ## 📷 Preview
 
-Adicione aqui uma captura de tela do sistema.
-
-Exemplo:
 <img width="1365" height="530" alt="image" src="https://github.com/user-attachments/assets/51dea302-3d98-42df-9ece-d3488dd22dba" />
-
-![Preview do Sistema](screenshot.png)
 
 ---
 
